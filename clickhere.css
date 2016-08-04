@@ -1,0 +1,24 @@
+
+
+button {
+	background-color:#ff8000;
+}
+
+body {
+	background-image:url("http://image.tmdb.org/t/p/w1920/sZ3OAC8aFARMNz8raMvwBPfPsLV.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.btn {
+	 background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position:center;
+}
+
