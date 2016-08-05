@@ -14,3 +14,4 @@ $(document).ready(function(){
         $("#myImage").attr("src", list[index++]);
     });
 });
+
